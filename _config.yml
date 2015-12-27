@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6199269
+  brandStrength: 0.8446808
+  lightness: 0.2234043
+  brandColors:
+    - '#010504'
+    - '#FFFFFF'
+    - '#01BDFF'
+    - '#FFE06D'
+    - '#9A1503'
+  rhythmicContrast: 0.1722122
+typography_spectrum: 0.2553191
+name: The Adventures Of Menlow Parker
